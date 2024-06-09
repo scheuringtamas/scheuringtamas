@@ -4,7 +4,9 @@
 
 ###
 
-<p align="left">Hello! 👋<br><br>Currently, I work as a SAP ABAP developer, where I apply my expertise in creating innovative solutions for businesses. However, my true passion lies in iOS development. I am deeply fascinated by the world of mobile applications and the endless possibilities it offers to shape the future of technology.<br><br>On my Github, you'll find a collection of projects reflecting my journey into iOS development. I believe in continuous learning and consistently enhance my knowledge and skills in iOS development through self-guided study and practical application<br><br>I am driven by a desire to create elegant and user-friendly mobile experiences that make a meaningful impact. I enjoy collaborating with fellow developers, exchanging ideas, and contributing to the open-source community.<br><br>Feel free to explore my repositories, provide feedback, or even reach out for collaboration opportunities. Together, let's push the boundaries of iOS development and create remarkable applications that enrich people's lives.<br><br></p>
+<p align="left">Hello! 👋<br><br>I am passionate about iOS development and have dedicated myself to creating innovative mobile applications. On my GitHub, you'll find a collection of projects that showcase my journey into iOS development. These projects highlight my skills in creating elegant, user-friendly mobile experiences.
+
+I believe in continuous learning and consistently enhance my knowledge and skills through self-guided study and practical application. I enjoy collaborating with fellow developers, exchanging ideas, and contributing to the open-source community.<br><br>Feel free to explore my repositories, provide feedback, or even reach out for collaboration opportunities. Together, let's push the boundaries of iOS development and create remarkable applications that enrich people's lives.<br><br></p>
 
 ###
 
