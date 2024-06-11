@@ -8,6 +8,8 @@
 
 I believe in continuous learning and consistently enhance my knowledge and skills through self-guided study and practical application. I enjoy collaborating with fellow developers, exchanging ideas, and contributing to the open-source community.<br><br>Feel free to explore my repositories, provide feedback, or even reach out for collaboration opportunities. Together, let's push the boundaries of iOS development and create remarkable applications that enrich people's lives.<br><br></p>
 
+Dive into my [Portfolio](https://github.com/scheuringtamas/Portfolio) to discover a range of projects showcasing my skills and creativity.
+
 ###
 
 <h2 align="left">🧰 Languages and Tools</h2>
