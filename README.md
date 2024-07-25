@@ -4,9 +4,9 @@
 
 ###
 
-<p align="left">Hello! 👋<br><br>I am passionate about iOS development and have dedicated myself to creating innovative mobile applications. On my GitHub, you'll find a collection of projects that showcase my journey into iOS development. These projects highlight my skills in creating elegant, user-friendly mobile experiences.
+<p align="left">Hello! 👋<br><br>I am passionate about software development and have dedicated myself to creating innovative applications. On my GitHub, you'll find a collection of projects that showcase my journey into the world of software development. These projects highlight my skills in crafting elegant, user-friendly experiences.
 
-I believe in continuous learning and consistently enhance my knowledge and skills through self-guided study and practical application. I enjoy collaborating with fellow developers, exchanging ideas, and contributing to the open-source community.<br><br>Feel free to explore my repositories, provide feedback, or even reach out for collaboration opportunities. Together, let's push the boundaries of iOS development and create remarkable applications that enrich people's lives.<br><br></p>
+I believe in continuous learning and consistently enhance my knowledge and skills through self-guided study and practical application. I enjoy collaborating with fellow developers, exchanging ideas, and contributing to the open-source community.<br><br>Feel free to explore my repositories, provide feedback, or even reach out for collaboration opportunities. Together, let's push the boundaries of software development and create remarkable applications that enrich people's lives.<br><br></p>
 
 Dive into my [Portfolio](https://github.com/scheuringtamas/Portfolio) to discover a range of projects showcasing my skills and creativity.
 
